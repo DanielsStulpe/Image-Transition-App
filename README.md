@@ -1,4 +1,4 @@
-# Animēto pārejas efektu realizācijas lietotne Python valodā, izmantojot Pillow un Tkinter bibliotēkas
+# Animēto pārejas efektu realizācija lietotnē, izmantojot Python valodu, Pillow un Tkinter bibliotēkas
 
 ## Satura rādītājs
 
